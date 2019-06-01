@@ -1,2 +1,0 @@
-print("sureuskdg")
-print("vimal")
